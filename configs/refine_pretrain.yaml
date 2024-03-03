@@ -1,0 +1,36 @@
+image_root: '/home/ubuntu/workplace/fsy/Dataset/FS2KSDE/images/'
+ann_root: '/home/ubuntu/workplace/fsy/Dataset/FS2KSDE/annotation/'
+dataset: 'fs2ksde'
+
+# image_root: '/home/ubuntu/workplace/fsy/Dataset/450/images/'
+# ann_root: '/home/ubuntu/workplace/fsy/Dataset/450/annotation/'
+# dataset: 'face450'
+
+pretrained: '/home/ubuntu/workplace/fsy/FVLP/output/pretrain/checkpoint_best.pth'
+intermediate_hidden_state: False
+
+# size of vit model; base or large
+vit: 'base'
+image_size: 224
+batch_size_train: 16
+batch_size_test: 16
+
+queue_size: 57600
+alpha: 0.4
+k_test: 128
+negative_all_rank: True
+
+# optimizer
+weight_decay: 0.05
+init_lr: 3e-5
+min_lr: 0
+warmup_lr: 1e-6
+lr_decay_rate: 0.9
+max_epoch: 100
+warmup_steps: 20000
+attn_lr: 1e-3
+
+
+
+
+
