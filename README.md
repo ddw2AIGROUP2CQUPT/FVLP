@@ -1,6 +1,6 @@
 # Vision-Language Joint Representation Learning for Sketch Less Facial Image Retrieval
 ## 🌟 Pipeline
-<img src="README.assets/pipeline.png" width="50%" alt="pipeline">
+<img src="README.assets/pipeline.png" width="80%" alt="pipeline">
 ## 💾 Dataset
 
 **Please click on the link [FS2K-SDE](https://github.com/ddw2AIGROUP2CQUPT/FS2K-SDE) for the dataset.**
