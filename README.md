@@ -3,6 +3,7 @@
 <div align="center">
     <img src="README.assets/pipeline.png" width="75%" alt="pipeline">
 </div>
+
 ## 💾 Dataset
 
 **Please click on the link [FS2K-SDE](https://github.com/ddw2AIGROUP2CQUPT/FS2K-SDE) for the dataset.**
