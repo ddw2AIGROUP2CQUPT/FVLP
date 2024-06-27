@@ -1,7 +1,7 @@
 # Vision-Language Joint Representation Learning for Sketch Less Facial Image Retrieval
 ## 🌟 Pipeline
 <div align="center">
-    <img src="README.assets/pipeline.png" width="50%" alt="pipeline">
+    <img src="README.assets/pipeline.png" width="75%" alt="pipeline">
 </div>
 ## 💾 Dataset
 
