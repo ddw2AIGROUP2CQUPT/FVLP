@@ -10,7 +10,7 @@ FaceCaption-15M is available at: **[FaceCaption-15M](https://huggingface.co/data
 **The [FS2K-SDE](https://github.com/ddw2AIGROUP2CQUPT/FS2K-SDE) dataset** comprises two subsets: the FS2K-SDE1 dataset with 75,530 sketches (1,079 images for training, with the remainder being allocated for testing) and the FS2K-SDE2 dataset with 23,380 sketches (334 images for training, with the remaining sketches and images being used for testing).
 
 ## Models
-Based on FaceCaption-15M, we trained a multimodal representation model [FLIP](https://github.com/ddw2openface/FLIP), similar in concept to CLIP, designed for aligning facial images with semantics.
+Based on FaceCaption-15M, we trained a multimodal representation model [FLIP](https://huggingface.co/OpenFace-CQUPT/FLIP), similar in concept to CLIP, designed for aligning facial images with semantics.
 
 ## 📔 Citation
 Dawei Dai, Shiyu Fu, Yingge Liu, Guoyin Wang,
