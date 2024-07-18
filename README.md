@@ -5,7 +5,7 @@
 </div>
 
 ## 💾 Dataset
-FaceCaption-15M is available at:**[FaceCaption-15M](https://huggingface.co/datasets/OpenFace-CQUPT/FaceCaption-15M)**
+FaceCaption-15M is available at: **[FaceCaption-15M](https://huggingface.co/datasets/OpenFace-CQUPT/FaceCaption-15M)**
 <br>
 **The [FS2K-SDE](https://github.com/ddw2AIGROUP2CQUPT/FS2K-SDE) dataset** comprises two subsets: the FS2K-SDE1 dataset with 75,530 sketches (1,079 images for training, with the remainder being allocated for testing) and the FS2K-SDE2 dataset with 23,380 sketches (334 images for training, with the remaining sketches and images being used for testing).
 
